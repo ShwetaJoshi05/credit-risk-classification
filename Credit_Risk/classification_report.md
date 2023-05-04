@@ -1,13 +1,5 @@
 # Credit Risk Analysis Report
 
-<p align="center">
-
-  <img src="../Images/credit_risk.jpg" alt="credit risk image" height = 400 width = 800>
-
-</p>
-
-</br>
-
 ## Table of Contents: 
 
 1. [Overview of the Analysis](#overview-of-the-analysis)
